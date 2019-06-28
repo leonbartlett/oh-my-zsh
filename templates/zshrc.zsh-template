@@ -81,6 +81,7 @@ plugins=(
   rake
   rbenv
   ruby
+  kubernetes
 )
 
 source $ZSH/oh-my-zsh.sh
