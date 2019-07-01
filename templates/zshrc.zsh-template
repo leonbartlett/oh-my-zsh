@@ -87,7 +87,7 @@ plugins=(
   rake
   rbenv
   ruby
-  kubernetes
+  tmux
 )
 
 source $ZSH/oh-my-zsh.sh
