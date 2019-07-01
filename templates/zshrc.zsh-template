@@ -88,6 +88,9 @@ plugins=(
   rbenv
   ruby
   tmux
+  systemd
+  kubectl
+  vi-mode
 )
 
 source $ZSH/oh-my-zsh.sh
