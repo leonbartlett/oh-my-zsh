@@ -4,3 +4,6 @@ custom/
 # temp files directories
 cache/
 log/
+
+# .env file
+.env
