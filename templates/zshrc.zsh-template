@@ -147,3 +147,7 @@ POWERLEVEL9K_DIR_ETC_BACKGROUND='red'
 
 # LS COLOUR SETTINGS
 LS_COLORS=$LS_COLORS:'di=1;33'
+
+# brew
+eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
+
