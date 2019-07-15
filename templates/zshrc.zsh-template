@@ -151,3 +151,6 @@ LS_COLORS=$LS_COLORS:'di=1;33'
 # brew
 eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
 
+# export TILLER
+export TILLER_NAMESPACE=tiller
+
