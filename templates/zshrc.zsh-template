@@ -91,6 +91,7 @@ plugins=(
   systemd
   kubectl
   vi-mode
+  terraform
 )
 
 source $ZSH/oh-my-zsh.sh
