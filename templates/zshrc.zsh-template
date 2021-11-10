@@ -18,8 +18,8 @@ export LS_COLORS=$LS_COLORS:'di=1;33'
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 #ZSH_THEME="robbyrussell"
-ZSH_THEME="agnoster"
-#ZSH_THEME="powerlevel9k/powerlevel9k"
+#ZSH_THEME="agnoster"
+ZSH_THEME="powerlevel10k/powerlevel10k"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -157,5 +157,5 @@ POWERLEVEL9K_DIR_ETC_BACKGROUND='red'
 LS_COLORS=$LS_COLORS:'di=1;33'
 
 # brew
-eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
+#eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
 
